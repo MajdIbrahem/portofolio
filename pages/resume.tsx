@@ -16,7 +16,7 @@ Tishreen University
         </h5>
         
         <p className="my-3">
-            Mater of Network Technology
+            Master of Network Technology
 Syrian Virtual University
 01/2023 - Present,
         </p>
@@ -25,7 +25,7 @@ Syrian Virtual University
     <div>
         <h5 className="my-3 text-2xl font-bold">Experience</h5>
         <div className="">
-        <h5 className="my-2 text-xl font-bold">junior Front-End Developer</h5>
+        <h5 className="my-2 text-xl font-bold"> Front-End Developer</h5>
         <p className="font-semibold">Ejalo, Ajman UAE
 06/2023 - 02/2023</p>
         </div>
