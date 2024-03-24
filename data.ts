@@ -150,7 +150,7 @@ key_techs: ["React", "Tailwind CSS", "Context API"],
         {
     id:6,
     name: "Movie app",
-    image_path: "/images/Screenshot (94)",
+    image_path: "/images/movies.png",
     deployed_url: "https://movie-app-red-seven.vercel.app/",
     github_url: "https://github.com/MajdIbrahem/movie_app",
     
@@ -161,7 +161,7 @@ key_techs: ["React", "Tailwind CSS", "Context API"],
         {
     id:7,
     name: "weather app",
-    image_path: "/images/Screenshot (95)",
+    image_path: "/images/weather.png",
     deployed_url: "https://majdibrahem.github.io/weather_app/",
     github_url: "https://github.com/MajdIbrahem/weather_app",
     

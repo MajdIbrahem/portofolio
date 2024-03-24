@@ -28,6 +28,10 @@ Syrian Virtual University
         <h5 className="my-2 text-xl font-bold"> Front-End Developer</h5>
         <p className="font-semibold">Ejalo, Ajman UAE
 06/2023 - 02/2023</p>
+        <p className="font-semibold">code web pages from the ground up using React . Along with a working
+Proficiency of Git version control.
+using modern web development tools like Git, Webpack, and next.js.
+mobile first design and cross browser development.</p>
         </div>
     </div>
         </div>
