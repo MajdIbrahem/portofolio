@@ -32,15 +32,30 @@ export const services: Services[] = [
 
 ];
     export const languages: Skill[] = [
+        {
+            Icon: BsCircleFill,
+            name: "HTMl",
+            level: "100",
+        },
+        {
+            Icon: BsCircleFill,
+            name: "CSS",
+            level: "100",
+        },
     {
         Icon: BsCircleFill,
         name: "Type script",
-        level: "45",
+        level: "75",
     },
     {
         Icon: BsCircleFill,
         name: "Java Script",
-        level: "60",
+        level: "80",
+    },
+    {
+        Icon: BsCircleFill,
+        name: "NextJS",
+        level: "80",
     },
     {
         Icon: BsCircleFill,

@@ -17,7 +17,7 @@ const Home = () => {
   console.log('ll',services)
   return (<div className='flex flex-col px-6 pt-1'>
     <h5 className='my-3 font-medium'>
-    I am Majd 25 Years Old, Fresh graduated Telecommunication engineer and self motivated junior front end develope
+    I am Majd 25 Years Old,  Telecommunication engineer and self motivated junior front end develope
 for an opportunity to show and develop my skills with a strong team by building innovative and cutting edge busin
       solutions both in local and global scopes</h5>
     <div className='p-4 mt-5  '>

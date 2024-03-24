@@ -38,10 +38,10 @@ return (
         <a href="https://www.facebook.com/majd.ibrahem.1426">
         <AiFillFacebook className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="linkedin.com/in/majd-ibrahim-211783262" >
+        <a href="https://www.linkedin.com/in/majd-ibrahim-211783262" >
         <AiFillLinkedin className="w-8 h-8 cursor-pointer" />
         </a>
-        <a href="github.com/MajdIbrahem">
+        <a href="https://www.github.com/MajdIbrahem">
         <AiFillGithub className="w-8 h-8 cursor-pointer" />{" "}
         </a>
     </div>
