@@ -147,6 +147,28 @@ key_techs: ["React", "Tailwind CSS", "Context API"],
     "Simple Ecommerce web app with cart.",
     key_techs: ["React", "TalwindCss", "API context"],
 },
+        {
+    id:6,
+    name: "Movie app",
+    image_path: "/images/Screenshot (94)",
+    deployed_url: "https://movie-app-red-seven.vercel.app/",
+    github_url: "https://github.com/MajdIbrahem/movie_app",
+    
+    description:
+    "Movie web app with TMDB api",
+    key_techs: ["React", "TalwindCss", "Redux "],
+},
+        {
+    id:7,
+    name: "weather app",
+    image_path: "/images/Screenshot (95)",
+    deployed_url: "https://majdibrahem.github.io/weather_app/",
+    github_url: "https://github.com/MajdIbrahem/weather_app",
+    
+    description:
+    "Simple Ecommerce web app with cart.",
+    key_techs: ["React", "TalwindCss", "Typescript"],
+},
 
 
 ];
