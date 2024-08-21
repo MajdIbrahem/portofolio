@@ -7,7 +7,7 @@ import Image from "next/image";
 
 const Sidebar = () => {
 return (
-    <>
+    <div className='w-full'>
     <Image
         src="/profile.png"
         alt="avatar"
@@ -25,7 +25,7 @@ return (
     </p>
       {/* Resume */}
     <a
-        href="images/Majd's Resume.pdf"
+        href="images/Majd.pdf"
         download="Majd's Resume (react)"
         className="flex items-center justify-center px-2 py-1 my-2 bg-gray-200 rounded-full cursor-pointer dark:bg-dark-200 dark:bg-black-500"
     >
@@ -48,14 +48,14 @@ return (
 
       {/* Contacts */}
     <div
-        className="py-4 my-5 bg-gray-200  flex items-center justify-center flex-col"
+        className="p-4 my-5 bg-gray-200  flex items-center justify-center flex-col"
         style={{ marginLeft: "-1rem", marginRight: "-1rem" }}
     >
-        <div className="flex items-center justify-center">
+        <div className="flex items-center justify-center px-2">
         <GoLocation className="mr-2" /> <span>Latakia,Syria </span>
         </div>
-        <p className="my-2 "> majdibrahem22400@gmail.com </p>
-        <p className="my-2"> (+963) 992806570</p>
+        <p className="my-2 px-2"> majdibrahem22400@gmail.com </p>
+        <p className="my-2 px-2"> (+963) 992806570</p>
     </div>
 
       {/* Email Button */}
@@ -69,7 +69,7 @@ return (
     
     </div>
     
-    </>
+    </div>
 )
 }
 

@@ -17,11 +17,11 @@ const Home = () => {
   console.log('ll',services)
   return (<div className='flex flex-col px-6 pt-1'>
     <h5 className='my-3 font-medium'>
-    I am Majd 25 Years Old,  Telecommunication engineer and self motivated junior front end develope
-for an opportunity to show and develop my skills with a strong team by building innovative and cutting edge busin
-      solutions both in local and global scopes</h5>
+    Motivated Front-End Developer with a Bachelor’s in Telecommunication Engineering and over a year of hands-on experience in creating responsive web
+applications. Proficient in ReactJS, TypeScript, and Next.js, with a strong ability to convert UI/UX designs into functional code. Demonstrates effective
+collaboration with cross-functional teams and an eagerness to contribute to both local and global projects.</h5>
     <div className='p-4 mt-5  '>
-      <h6 className='my-3 text-xl font-bold tracking-wide'>My Skills</h6>
+      <h6 className='my-3 text-xl font-bold tracking-wide text-center'>My QUALIFICATIONS</h6>
       <div className='grid lg:grid-cols-2 gap-6'>
         {services.map(service => {
         return <ServiceCard key={service.title} service={service}></ServiceCard>

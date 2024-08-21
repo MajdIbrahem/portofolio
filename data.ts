@@ -8,26 +8,26 @@ import { BsCircleFill } from "react-icons/bs";
 export const services: Services[] = [
 {
     Icon: RiComputerLine,
-    title: "Frontend Development",
+    title: "Proficient in Front-End Development:",
     about:
-    "I can build a beautiful and scalable SPA using  HTML,CSS   and React.js ",
+    "Skilled in creating web pages from scratch using JavaScript, TypeScript, ReactJS, Next.js, andTailwind CSS ",
 },
 {
     Icon: FaServer,
-    title: "Reactjs",
+    title: "Responsive Design Expertise: ",
     about:
-    "handle state, redux, api usingTailwind  & other popular frameworks",
+    "Strong understanding of mobile-first design principles and cross-browser compatibility to ensure optimal user experience across various devices and browsers",
 },
 {
     Icon: AiOutlineApi,
-    title: "git",
+    title: "API Integration and JSON Handling",
     about:
-    "use github to up my project ",
+    "Experienced in integrating APIs and handling JSON data for dynamic web applications ",
 },
 {
     Icon: MdDeveloperMode,
-    title: "Competitive Coder",
-    about: "a daily problem solver in HackerRank  and Leet Code ",
+    title: "Single-Page Applications (SPA)",
+    about: "Expertise in migrating multi-page user experiences to single-page applications using ReactJS and React Router.",
 },
 
 ];
@@ -82,24 +82,15 @@ export const services: Services[] = [
     export const tools: Skill[] = [
     {
         Icon: BsCircleFill,
-        name: "Figma",
+        name: "Communication Skills",
         level: "85",
     },
     {
         Icon: BsCircleFill,
-        name: "redux",
-        level: "45",
+        name: "Troubleshooting",
+        level: "85",
     },
-    {
-        Icon: BsCircleFill,
-        name: "Api",
-        level: "60",
-    },
-    {
-        Icon: BsCircleFill,
-        name: "Framer",
-        level: "45",
-    },
+    
 ];
     export const myProjects: IProject[] = [
         { 
@@ -182,6 +173,28 @@ key_techs: ["React", "Tailwind CSS", "Context API"],
     
     description:
     "Simple Ecommerce web app with cart.",
+    key_techs: ["React", "TalwindCss", "Typescript"],
+},
+        {
+    id:8,
+    name: "React Admin Dashboard",
+    image_path: "/images/dashbord.png",
+    deployed_url: "https://dashbord-design-bay.vercel.app/",
+    github_url: "https://github.com/MajdIbrahem/dashbord-design",
+    
+    description:
+    "React Admin Dashboard",
+    key_techs: ["React", "Sass"],
+},
+        {
+    id:9,
+    name: "Gyme landing page",
+    image_path: "/images/gyme.png",
+    deployed_url: "https://gyme-landing-page.vercel.app/",
+    github_url: "https://github.com/MajdIbrahem/gyme-landingPage",
+    
+    description:
+    "Simple react landing page.",
     key_techs: ["React", "TalwindCss", "Typescript"],
 },
 

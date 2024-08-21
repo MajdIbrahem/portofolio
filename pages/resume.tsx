@@ -14,7 +14,10 @@ return (
 Tishreen University
 09/2016 - 09/2022,
         </h5>
-        
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
         <p className="my-3">
             Master of Network Technology
 Syrian Virtual University
@@ -27,17 +30,23 @@ Syrian Virtual University
         <div className="">
         <h5 className="my-2 text-xl font-bold"> Front-End Developer</h5>
         <p className="font-semibold">Ejalo, Ajman UAE
-06/2023 - 02/2023</p>
-        <p className="font-base">code web pages from the ground up using React . Along with a working
-Proficiency of Git version control.<br/>
-using modern web development tools like Git, Webpack, and next.js.
-<br/>mobile first design and cross browser development.</p>
+                      12/2023 - 02/2023</p>
+        <p className="font-base">ranslated UI/UX designs into high-performance front-end web
+applications using ReactJS, TypeScript, and Next.js.<br></br>
+Utilized modern web development tools including Git, Webpack, Redux, and
+React Router.<br></br>
+Implemented unit and widget tests, contributing to the overall robustness
+of the application.<br></br>
+Participated in daily Scrum meetings with a 5-member team to enhance
+the development workflow.<br></br>
+Achieved a 60% reduction in load time by optimizing icon usage from
+Material icons to font-based icons</p>
         </div>
     </div>
         </div>
         <div className="grid gap-9 md:grid-cols-2">
         <div>
-          <h5 className="my-3 text-2xl font-bold">Language & Framework</h5>
+          <h5 className="my-3 text-2xl font-bold">Skills</h5>
           <div className="my-2">
             {languages.map((language, i) => (
               <Bar value={language} key={i} />
@@ -46,7 +55,7 @@ using modern web development tools like Git, Webpack, and next.js.
         </div>
 
         <div>
-          <h5 className="my-3 text-2xl font-bold">Tools & Softwares</h5>
+          <h5 className="my-3 text-2xl font-bold">Soft Skills</h5>
           <div className="my-2">
             {tools.map((tool, i) => (
               <Bar value={tool} key={i} />
